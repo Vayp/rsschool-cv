@@ -1,7 +1,8 @@
-#Resume
+Resume
+=======
+## Valery Maksimovich
 
-##Valery Maksimovich
+### Contacts
 
-###Contacts
 **Phone number:** +375(29)-507-74-15
 **Email:** vaypeks@gmail.com
