@@ -19,7 +19,7 @@ I want to develop in the field of front-end development. Gain new knowledge and 
 * Git (Junior)
 
 ### Code examples
-#### [Dynamic-Massonry] (https://github.com/Vayp/Dynamic-Massonry/tree/master/www/css)
+**[Dynamic-Massonry]** (https://github.com/Vayp/Dynamic-Massonry/tree/master/www/css)
 ##### HTML
 ```
 		<div class="row masonry-container" style="margin: 0px; padding: 0px">
