@@ -19,8 +19,8 @@ I want to develop in the field of front-end development. Gain new knowledge and 
 * Git (Junior)
 
 ### Code examples
-**[Dynamic-Massonry](https://github.com/Vayp/Dynamic-Massonry/tree/master/www/css)**
-##### HTML
+**[Dynamic-Massonry](https://github.com/Vayp/Dynamic-Massonry/tree/master/www)**
+#### HTML
 ```
 		<div class="row masonry-container" style="margin: 0px; padding: 0px">
 			<div class="grid-item col-xs-12 col-sm-6 col-md-3 col-lg-1-5">
@@ -34,7 +34,7 @@ I want to develop in the field of front-end development. Gain new knowledge and 
 				</div>
 			</div>
 ```
-##### CSS
+#### CSS
 ```
 body{
 	background: url(../img/background.jpg);
@@ -61,3 +61,7 @@ body{
 	padding: 0px;
 }
 ```
+### Experience
+Experience in 1c-bitrix and modx at the site editor level. There is a certificate of completion of courses on the 1c-bitrix Content Manager.
+Completion of courses "Modern Front-End using JavaScript and HTML5" in [It-Academy‎ Belhard](https://belhard.academy/frontend-html5-javascript).
+Completion of courses "HTML5" and "CSS" on [Codecademy](https://www.codecademy.com/users/ValeryMaksimovich/achievements).
