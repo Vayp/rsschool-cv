@@ -65,3 +65,14 @@ body{
 Experience in 1c-bitrix and modx at the site editor level. There is a certificate of completion of courses on the 1c-bitrix Content Manager.
 Completion of courses "Modern Front-End using JavaScript and HTML5" in [It-Academy‎ Belhard](https://belhard.academy/frontend-html5-javascript).
 Completion of courses "HTML5" and "CSS" on [Codecademy](https://www.codecademy.com/users/ValeryMaksimovich/achievements).
+
+### Education
+**University**
+Belarusian State University of Informatics And Radioelectronics
+**Faculty**
+Faculty of Computer Technology
+**Graduation year**
+2013
+
+### English levet
+A1+
