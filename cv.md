@@ -1,5 +1,6 @@
 Resume
 =======
+![Image](https://raw.githubusercontent.com/Vayp/rsschool-2019Q1-cv/gh-pages/photo.jpg "Valery Maksimovich")
 ## Valery Maksimovich
 
 ### Contacts
